@@ -1,0 +1,8 @@
+{
+  "name": "HelloWord",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "c579e28b"
+}
